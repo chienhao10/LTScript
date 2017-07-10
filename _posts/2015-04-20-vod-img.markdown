@@ -7,15 +7,15 @@ image: "img/f.jpg"
 date:   2017-07-10 12:12:12
 ---
 
-### Dolor sit amet?
+### 测试?
 <a href="https://www.facebook.com/lolhack001/videos/457098924414652/
-" target="_blank"><img src="http://img.youtube.com/vi/R0uufIdWCD4/0.jpg" 
+" target="_blank"><img src="http://s22.postimg.org/5oawbeyhd/screenshot_538.png" 
 alt="CJSHU" width="240" height="180" border="10" /></a>  
 
 
 <a href="https://youtu.be/mswq2Cx1MTE
-" target="_blank"><img src="http://img.youtube.com/vi/R0uufIdWCD4/0.jpg" 
+" target="_blank"><img src="http://s22.postimg.org/v5oph9qtt/screenshot_537.png" 
 alt="CJSHU" width="240" height="180" border="10" /></a>
 
-### Aliquam suscipit.
+### 图片.
 ![](http://ww4.sinaimg.cn/cmw218/005uPDlbgw1f1drj093cej30zk0qon4d.jpg)
