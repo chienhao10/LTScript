@@ -23,6 +23,3 @@ Elobuddy
 ### 想使用？
 详细请联系我进行测试或者购买
 
-http://s22.postimg.org/8nd5rau1d/screenshot_536.png
-image:"http://s22.postimg.org/8nd5rau1d/screenshot_536.png"
-image: "img/ltcq.jpg"
