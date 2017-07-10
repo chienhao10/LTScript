@@ -1,20 +1,33 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/d.jpg"
-date:   2015-04-23 12:12:12
+title:  "LT 超神系列"
+subtitle: "超高质量脚本遇鬼杀鬼,遇佛杀佛!"
+author: "LT"
+avatar: "img/authors/lt.png"
+image: "img/c.jpg"
+date:   2017-07-10 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### 什么是LT 超神系列?
+AIO合集所使用的是移植的L#库，超神系列与传奇系列则为EB库.传奇系列的乃为玩家个人喜好而定制的；超神系列为根据不同玩家的游戏方式进行高质量开发的高度可定制化脚本。每一个英雄的技能以及逻辑都是可以进行不同玩家游戏方式进行开关。
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+### 包含什么呢?
+因超神系列的质量非常之高，所开发时间相对比较久.目前也只有支持：
+奥莉安娜（Oriana）
+劫（Zed）
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+日后将会继续添加
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+### 支持的平台
+Elobuddy
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+### 如何使用
+详细请联系我进行演示或者购买
+Line:superchienhao
+QQ:1810092114
+
+### 支付方式
+以太币
+比特币
+支付宝（人民币）
+PayPal（美金）
+银行转账（台币）
