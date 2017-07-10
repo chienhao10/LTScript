@@ -12,6 +12,9 @@ date:   2017-07-10 12:12:12
 " target="_blank"><img src="http://s22.postimg.org/5oawbeyhd/screenshot_538.png" 
 alt="CJSHU" width="240" height="180" border="10" /></a>  
 
+<video width="480" height="320" controls>
+<source src="https://github.com/chienhao10/LTScript/blob/master/vod/EB%E8%B5%B0%E7%A0%8DVS%E5%90%88%E9%9B%86%E8%B5%B0%E7%A0%8D.flv">
+</video>
 
 <a href="https://youtu.be/mswq2Cx1MTE
 " target="_blank"><img src="http://s22.postimg.org/v5oph9qtt/screenshot_537.png" 
