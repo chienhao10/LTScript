@@ -13,13 +13,15 @@ date:   2017-07-10 12:12:12
 ### 支持的平台.
 Elobuddy (C#)  
 Heas Engine (C#)  
-Aimtec (C#)
-BOL (LUA)
+Aimtec (C#)  
+BOL (LUA)  
 有新平台将会继续更新
 
 ### 如何使用
 
-详细请联系我进行演示或者购买 Line:superchienhao QQ:1810092114
+详细请联系我进行演示或者购买  
+Line:superchienhao  
+QQ:1810092114
 
 ### 支付方式
 
