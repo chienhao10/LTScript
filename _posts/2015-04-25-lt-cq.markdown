@@ -3,7 +3,7 @@ title:  "LT传奇脚本系列"
 subtitle: "依照玩家要求的定制系列!"
 author: "LT"
 avatar: "img/authors/lt.png"
-image: "img/ltcq.jpg"
+image: "img/a.jpg"
 date:   2017-07-1 12:12:12
 ---
 
