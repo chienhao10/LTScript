@@ -1,0 +1,28 @@
+---
+title:  "LT传奇脚本系列"
+subtitle: "依照玩家要求的定制系列!"
+author: "LT"
+avatar: "img/authors/lt.png"
+image: "img/ltcq.jpg"
+date:   2017-07-1 12:12:12
+---
+
+### 什么是LT传奇脚本系列?
+这个系列的脚本是根据不同玩家单独的要求所制作的脚本.例如一般的英雄脚本技能能用来躲避敌方技能，但是却只能使用于连招而已。根据某位玩家的要求添加了使用技能来进行躲避的功能！又或者是脚本平台的核心对一些英雄不是那么的友善，在使用过程中会出现卡顿或者不准的现象，我会根据问题所在并且进行脚本微调。
+
+### 目前所支持的的英雄?
+- 克黎思妲 （Kalista）（滑板鞋）
+- 卡特琳娜 （Katarina）（卡特）
+- 犽宿 （Yasuo）
+- 齊勒斯 (Xerath) (三炮）
+- 伊澤瑞爾（Ezreal）（伊泽瑞尔）
+
+### 可用平台
+Elobuddy
+
+### 想使用？
+详细请联系我进行测试或者购买
+
+http://s22.postimg.org/8nd5rau1d/screenshot_536.png
+image:"http://s22.postimg.org/8nd5rau1d/screenshot_536.png"
+image: "img/ltcq.jpg"
