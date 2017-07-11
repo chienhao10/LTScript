@@ -1,5 +1,5 @@
 ---
-title:  "视频 & 图片"
+title:  "视频"
 subtitle: "来查看游戏内效果吧!"
 author: "LT"
 avatar: "img/authors/lt.png"
@@ -7,14 +7,9 @@ image: "img/f.jpg"
 date:   2017-07-10 12:12:12
 ---
 
-### 测试?
-<a href="https://github.com/chienhao10/LTScript/blob/master/vod/EB%E8%B5%B0%E7%A0%8DVS%E5%90%88%E9%9B%86%E8%B5%B0%E7%A0%8D.flv
-" target="_blank"><img src="http://s22.postimg.org/5oawbeyhd/screenshot_538.png" 
-alt="CJSHU" width="240" height="180" border="10" /></a>  
-
-<video width="480" height="320" controls>
-<source src="https://github.com/chienhao10/LTScript/blob/master/vod/EB%E8%B5%B0%E7%A0%8DVS%E5%90%88%E9%9B%86%E8%B5%B0%E7%A0%8D.flv">
-</video>
+### EB走砍VSLTAO走砍
+<a href="https://vimeo.com/225026649" target="_blank"><img src="http://s22.postimg.org/45tabnw29/screenshot_539.png" 
+alt="走砍测试" width="240" height="180" border="10" /></a>
 
 <a href="https://youtu.be/mswq2Cx1MTE
 " target="_blank"><img src="http://s22.postimg.org/v5oph9qtt/screenshot_537.png" 
