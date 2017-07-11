@@ -1,0 +1,23 @@
+---
+title:  "EB注入新版本方法"
+subtitle: "Garena更新之后需要特别方法才能使用!"
+author: "LT"
+avatar: "img/authors/lt.png"
+image: "https://github.com/chienhao10/LTScript/raw/master/img/h.jpg"
+date:   2017-07-10 12:12:12
+---
+
+### 解决方案
+因为Garena新增系统,必須用舊版竟時通進遊戲  
+步骤:  
+找到台服\GameData\Apps\LoLTW\lol.versiom這個文件  
+用記事本打開lol.versiom會看見0703  
+改成0619,然後下遊戲退出競時通  
+在上競時通會提示更新，你改成619的版本，競時通會把你更新到6.29.下載完畢等更新好會提示更新錯誤.  
+直接退出競時通，  
+打開lol.versiom，改成0703  
+如果你 沒更新遊戲，lol.versiom直接改0703，進遊戲OK  
+記得換TP  
+在上競時通直接進入遊戲即可。  
+
+如果无TP，请联系我来获取
