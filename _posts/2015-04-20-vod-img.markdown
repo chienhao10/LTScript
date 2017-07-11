@@ -3,7 +3,7 @@ title:  "视频"
 subtitle: "来查看游戏内效果吧!"
 author: "LT"
 avatar: "img/authors/lt.png"
-image: "img/f.jpg"
+image: "https://github.com/chienhao10/LTScript/raw/master/img/f.jpg"
 date:   2017-07-10 12:12:12
 ---
 
