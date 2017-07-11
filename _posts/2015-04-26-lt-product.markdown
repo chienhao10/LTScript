@@ -1,52 +1,36 @@
 ---
-title:  "视频"
-subtitle: "来查看游戏内效果吧!"
+title:  "产品/代购"
+subtitle: "个人脚本列表以及代购各大脚本平台会员!"
 author: "LT"
 avatar: "img/authors/lt.png"
-image: "https://github.com/chienhao10/LTScript/raw/master/img/f.jpg"
+image: "https://github.com/chienhao10/LTScript/raw/master/img/g.jpg"
 date:   2017-07-10 12:12:12
 ---
 
-### 哈喽
-这里是几个游戏内的演示，电脑有点笨 还请见谅。建议大家右键打开视频观看！  
+### LT 产品列表
+-LT超神系列  
+-LT传奇系列
+-LT AIO移植合集
 
-### EB走砍VSLTAO走砍
-<a href="https://vimeo.com/225026649" target="_blank"><img src="http://s22.postimg.org/45tabnw29/screenshot_539.png" 
-alt="走砍测试" width="240" height="180" border="10" /></a>
+---------------
+-LT EB防封
+-LT 脚本定制
 
-### 阿狸测试演示1
-<a href="https://vimeo.com/225026600
-" target="_blank"><img src="http://s22.postimg.org/mmnp2hc0h/screenshot_540.png" 
-alt="阿狸R" width="240" height="180" border="10" /></a>
+### 平台会员代购
+-Aimtec  
+-Hesa  
+-BoL  
+-GoS  
+-EloBuddy  
+-Entropy  
+-EloSuit  
 
-### 阿狸测试演示2
-<a href="https://vimeo.com/225026916
-" target="_blank"><img src="http://s22.postimg.org/y0a8domj5/screenshot_541.png" 
-alt="阿狸连招" width="240" height="180" border="10" /></a>
+ps：还有两家目前还未公开，请敬请期待
 
-### LT 卡特测试演示
-<a href="https://vimeo.com/225026679
-" target="_blank"><img src="http://s22.postimg.org/u95953y8h/screenshot_545.png" 
-alt="卡特" width="240" height="180" border="10" /></a>
-
-### LT AIO 女警测试演示
-<a href="https://vimeo.com/225026946
-" target="_blank"><img src="http://s22.postimg.org/v7lm7ebkh/screenshot_542.png" 
-alt="女警" width="240" height="180" border="10" /></a>
-
-### LT 劫躲避测试演示
-<a href="https://vimeo.com/225026776
-" target="_blank"><img src="http://s22.postimg.org/h2ft5l2j5/screenshot_543.png" 
-alt="劫躲避" width="240" height="180" border="10" /></a>
-
-### LT 亚索W测试演示
-<a href="https://vimeo.com/225026768
-" target="_blank"><img src="http://s22.postimg.org/kakaimosx/screenshot_544.png" 
-alt="亚索W" width="240" height="180" border="10" /></a>
-
-### LT 亚索连招测试演示2
-<a href="https://vimeo.com/225026706
-" target="_blank"><img src="http://s22.postimg.org/4rmuligi9/screenshot_546.png" 
-alt="亚索连招" width="240" height="180" border="10" /></a>
-### 图片.
-![](http://ww4.sinaimg.cn/cmw218/005uPDlbgw1f1drj093cej30zk0qon4d.jpg)
+### 外服30级账号（手工账号|挂机账号）
+-北美服
+-东欧服
+-西欧服
+-巴西服
+-土耳其
+-拉丁服
