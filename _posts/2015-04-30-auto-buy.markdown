@@ -3,7 +3,7 @@ title:  "自动购买"
 subtitle: "直接购买,无需多说!"
 author: "lt"
 avatar: "img/authors/lt.png"
-image: "img/f.jpg"
+image: "img/j.jpg"
 date:   2017-07-10 12:12:12
 ---
 
