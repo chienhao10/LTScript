@@ -211,11 +211,10 @@
                   "12": "Draw notifications about selected target",
                   "13": "Only Attack Selected Target Settings",
                   "14": "Enable only attack selected target",
-                  "15": "Only attack selected target toggle"
-				  "15": "Only attack selected target toggle",
+				          "15": "Only attack selected target toggle",
                   "16": "Priorities",
-				  "17": "(Higher value means higher priority)",
-				  "18": "Reset to default priorities"
+				          "17": "(Higher value means higher priority)",
+				          "18": "Reset to default priorities"
             },
             "French": {
                   "0": "Sélecteur De Cibles",
