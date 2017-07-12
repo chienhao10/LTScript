@@ -20,7 +20,8 @@
                   "16": "Minimum delay (Default 150)",
                   "17": "Maximum delay (Default 350)",
                   "18": "Gapcloser",
-              "19": "Spells to be detected:"
+              "19": "Spells to be detected:",
+              "20": "Core"
 
             },
             "French": {
@@ -108,7 +109,7 @@
                   "17": "最大延迟 (默认 350)",
                   "18": "防突进",
                   "19": "需被检测的技能:"
-
+                  "20": "核心:"
             },
             "ChineseTraditional": {
                   "0": "LT漢化核心",
@@ -423,7 +424,12 @@
                   "42": "Use Game.OnTick (more fps)",
                   "43": "Update Game.OnUpdate (faster reaction)",
                   "44": "Support Mode",
-                  "45": "Don't attack Yasuo's WindWall"
+              "45": "Don't attack Yasuo's WindWall",
+              "46": "Attack Jungle Plants",
+              "47": "Last Hit Gangplank Barrels",
+              "48": "Tips:if your autoattack is getting cancelled too much.",
+              "49": "you can fix it by adding more extra windup time.",
+                "50": "走砍目标"
             },
             "French": {
                   "0": "Orbwalker",
@@ -610,8 +616,13 @@
                   "41": "游戏内更新事件获取方法",
                   "42": "使用Game.OnTick (更多FPS)",
                   "43": "使用Game.OnUpdate (反应更快)",
-                  "44": "Support 模式",
-                  "45": "不要攻击亚索风墙"
+                  "44": "辅助模式",
+              "45": "不要攻击亚索风墙"
+              "46": "攻击野区植物",
+              "47": "尾刀船长炸药桶",
+              "48": "提示:如果你的普攻是越来越取消了太多.",
+              "49": "你可以通过添加更多额外施法时间修复.",
+              "50": "走砍目标"
             },
             "ChineseTraditional": {
                   "0": "走砍",
@@ -5810,13 +5821,8 @@
     }
   },
   "HTTF Riven v2": {
-    "English": {
-      "0": "HTTF Riven v2",
-      "1": "Combo"
-    },
     "Chinese": {
-      "0": "LT 野兽瑞文",
-      "1": "连招"
+      "0":  "LT 野兽瑞文",
     }
   },
       "Maddening Jinx": {
