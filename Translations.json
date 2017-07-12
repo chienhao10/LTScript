@@ -286,7 +286,7 @@
                   "12": "显示通知目标",
                   "13": "只攻击选择目标设置",
                   "14": "启用只攻击选定目标",
-				  "15": "只有进攻选择目标切换",
+				          "15": "只有进攻选择目标切换",
                   "16": "优先级别",
                   "17": "(数值越高越优先)",
                   "18": "重置到默认级别"
@@ -419,13 +419,12 @@
                   "42": "Use Game.OnTick (more fps)",
                   "43": "Update Game.OnUpdate (faster reaction)",
                   "44": "Support Mode",
-                  "45": "Don't attack Yasuo's WindWall"
-				  "45": "Don't attack Yasuo's WindWall",
-				  "46": "Attack Jungle Plants",
-				  "47": "Last Hit Gangplank Barrels",
-				  "48": "Tips:if your autoattack is getting cancelled too much.",
-				  "49": "you can fix it by adding more extra windup time.",
-				  "50": "走砍目标"
+				          "45": "Don't attack Yasuo's WindWall",
+				          "46": "Attack Jungle Plants",
+				          "47": "Last Hit Gangplank Barrels",
+				          "48": "Tips:if your autoattack is getting cancelled too much.",
+				          "49": "you can fix it by adding more extra windup time.",
+				  				"50": "Orbwalker Target"
             },
             "French": {
                   "0": "Orbwalker",
