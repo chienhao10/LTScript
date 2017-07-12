@@ -20,8 +20,7 @@
                   "16": "Minimum delay (Default 150)",
                   "17": "Maximum delay (Default 350)",
                   "18": "Gapcloser",
-              "19": "Spells to be detected:",
-              "20": "Core"
+              "19": "Spells to be detected:"
 
             },
             "French": {
@@ -108,8 +107,7 @@
                   "16": "最小延迟 (默认 150):",
                   "17": "最大延迟 (默认 350)",
                   "18": "防突进",
-                  "19": "需被检测的技能:",
-                  "20": "核心:"
+                  "19": "需被检测的技能:"
             },
             "ChineseTraditional": {
                   "0": "LT漢化核心",
