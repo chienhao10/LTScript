@@ -108,28 +108,28 @@
                   "18": "防突进",
                   "19": "需被检测的技能:"
             },
-        "ChineseTraditional": {
-          "0": "LT漢化核心",
-          "1": "每秒點擊次數",
-          "2": "         建議數值：25.",
-          "3": "註釋: 每秒點擊次數意味著Game.OnTick事件的發送頻率.",
-          "4": "這意味著，此選項不是一個人性化，不僅僅是性能選項.",
-          "5": "例如：25 t/s 指Game.OnTick每秒被觸發25次.",
-          "6": "更高的數值每秒會點擊更多次，但也會減少少量FPS.",
-          "7": "副選單",
-          "8": "串流模式:",
-          "9": "啟用遊戲聊天框顯示資訊功能",
-          "10": "啟用防掛機功能",
-          "11": "啟用移動修正",
-          "12": "顯示防禦塔範圍",
-          "13": "顯示浮水印",
-          "14": "點擊延遲",
-          "15": "更低的數值代表點擊更快.",
-          "16": "最小延遲 (默認 150)",
-          "17": "最大延遲 (默認 350)",
-          "18": "防突進",
-          "19": "需要探測的技能:"
-        }  
+            "ChineseTraditional": {
+                  "0": "LT漢化核心",
+                  "1": "每秒點擊次數",
+                  "2": "         建議數值：25.",
+                  "3": "註釋: 每秒點擊次數意味著Game.OnTick事件的發送頻率.",
+                  "4": "這意味著，此選項不是一個人性化，不僅僅是性能選項.",
+                  "5": "例如：25 t/s 指Game.OnTick每秒被觸發25次.",
+                  "6": "更高的數值每秒會點擊更多次，但也會減少少量FPS.",
+                  "7": "副選單",
+                  "8": "串流模式:",
+                  "9": "啟用遊戲聊天框顯示資訊功能",
+                  "10": "啟用防掛機功能",
+                  "11": "啟用移動修正",
+                  "12": "顯示防禦塔範圍",
+                  "13": "顯示浮水印",
+                  "14": "點擊延遲",
+                  "15": "更低的數值代表點擊更快.",
+                  "16": "最小延遲 (默認 150)",
+                  "17": "最大延遲 (默認 350)",
+                  "18": "防突進",
+                  "19": "需要探測的技能:" 
+				  }				  
             "Romanian": {
                   "0": "Core",
                   "1": "Ticks Pe Secundă",
@@ -212,10 +212,10 @@
                   "12": "Draw notifications about selected target",
                   "13": "Only Attack Selected Target Settings",
                   "14": "Enable only attack selected target",
-				          "15": "Only attack selected target toggle",
+				  "15": "Only attack selected target toggle",
                   "16": "Priorities",
-				          "17": "(Higher value means higher priority)",
-				          "18": "Reset to default priorities"
+				  "17": "(Higher value means higher priority)",
+				  "18": "Reset to default priorities"
             },
             "French": {
                   "0": "Sélecteur De Cibles",
@@ -287,7 +287,7 @@
                   "12": "显示通知目标",
                   "13": "只攻击选择目标设置",
                   "14": "启用只攻击选定目标",
-				          "15": "只有进攻选择目标切换",
+				  "15": "只有进攻选择目标切换",
                   "16": "优先级别",
                   "17": "(数值越高越优先)",
                   "18": "重置到默认级别"
@@ -420,12 +420,12 @@
                   "42": "Use Game.OnTick (more fps)",
                   "43": "Update Game.OnUpdate (faster reaction)",
                   "44": "Support Mode",
-				          "45": "Don't attack Yasuo's WindWall",
-				          "46": "Attack Jungle Plants",
-				          "47": "Last Hit Gangplank Barrels",
-				          "48": "Tips:if your autoattack is getting cancelled too much.",
-				          "49": "you can fix it by adding more extra windup time.",
-				  				"50": "Orbwalker Target"
+				  "45": "Don't attack Yasuo's WindWall",
+				  "46": "Attack Jungle Plants",
+				  "47": "Last Hit Gangplank Barrels",
+				  "48": "Tips:if your autoattack is getting cancelled too much.",
+				  "49": "you can fix it by adding more extra windup time.",
+				  "50": "Orbwalker Target"
             },
             "French": {
                   "0": "Orbwalker",
@@ -612,13 +612,13 @@
                   "41": "游戏内更新事件获取方法",
                   "42": "使用Game.OnTick (更多FPS)",
                   "43": "使用Game.OnUpdate (反应更快)",
-                  "44": "辅助模式",
-				          "45": "不要攻击亚索风墙",
-				          "46": "攻击野区植物",
-				          "47": "尾刀船长炸药桶",
-				          "48": "提示:如果你的普攻是越来越取消了太多.",
-				          "49": "你可以通过添加更多额外施法时间修复.",
-				          "50": "走砍目标"
+                  "44": "Support 模式",
+				  "45": "不要攻击亚索风墙",
+				  "46": "攻击野区植物",
+				  "47": "尾刀船长炸药桶",
+				  "48": "提示:如果你的普攻是越来越取消了太多.",
+				  "49": "你可以通过添加更多额外施法时间修复.",
+				  "50": "走砍目标"
             },
             "ChineseTraditional": {
                   "0": "走砍",
@@ -665,7 +665,7 @@
                   "41": "遊戲內更新事件獲取方法",
                   "42": "使用Game.OnTick (更多FPS)",
                   "43": "使用Game.OnUpdate (反應更快)",
-                  "44": "辅助模式",
+                  "44": "辅助 模式",
                   "45": "不要攻擊犽宿風牆"
             },
             "Vietnamese": {
