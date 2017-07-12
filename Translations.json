@@ -5810,10 +5810,13 @@
     }
   },
   "HTTF Riven v2": {
+    "English": {
+      "0": "HTTF Riven v2",
+      "1": "Combo"
+    },
     "Chinese": {
       "0": "LT 野兽瑞文",
       "1": "连招"
-
     }
   },
       "Maddening Jinx": {
