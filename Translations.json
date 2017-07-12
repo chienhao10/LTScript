@@ -20,7 +20,7 @@
                   "16": "Minimum delay (Default 150)",
                   "17": "Maximum delay (Default 350)",
                   "18": "Gapcloser",
-              "19": "Spells to be detected:"
+                  "19": "Spells to be detected:"
 
             },
             "French": {
@@ -108,7 +108,6 @@
                   "17": "最大延迟 (默认 350)",
                   "18": "防突进",
                   "19": "需被检测的技能:"
-
             },
             "ChineseTraditional": {
                   "0": "LT漢化核心",
@@ -130,8 +129,7 @@
                   "16": "最小延遲 (默認 150)",
                   "17": "最大延遲 (默認 350)",
                   "18": "防突進",
-                  "19": "需要探測的技能:"
-              
+                  "19": "需要探測的技能:"              
             },
             "Romanian": {
                   "0": "Core",
