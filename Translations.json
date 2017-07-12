@@ -1,6 +1,6 @@
 {
       "Core": {
-            "English": {
+        "English": {
                   "0": "Core",
                   "1": "Ticks Per Second",
                   "2": "         Recommended value: 25.",
@@ -20,9 +20,8 @@
                   "16": "Minimum delay (Default 150)",
                   "17": "Maximum delay (Default 350)",
                   "18": "Gapcloser",
-                  "19": "Spells to be detected:"
-
-            },
+              "19": "Spells to be detected:"
+        },
             "French": {
                   "0": "Core",
                   "1": "Ticks Par Secondes",
